@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ktownmaxi
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python and HTML 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on coming soon
 - 📫 How to reach me coming soon
 
