@@ -1,1 +1,1 @@
-Im ktownmaxi :) I do some Python deveopment and Java Minecraft Modding too :)
+Im ktownmaxi :) I do Python and Java Android Development
